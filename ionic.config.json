@@ -1,0 +1,7 @@
+{
+  "name": "APILPL240822",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
